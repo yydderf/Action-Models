@@ -2,6 +2,14 @@
 
 this repo consists of SoTA (as of 2026 Oct) VLA / WAMs and their profiling scripts
 
+clone this repo with `--recurse-submodules` to initialize all the nested submodules
+
+or fetch the submodules afterwards by the following command
+
+```bash
+git submodule update --init --recursive
+```
+
 ### Model Weights 
 
 the default model weights are stored at /srv/models/
