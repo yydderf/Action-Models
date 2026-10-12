@@ -1,0 +1,9 @@
+[submodule "Isaac-GR00T"]
+	path = Isaac-GR00T
+	url = https://github.com/yydderf/Isaac-GR00T.git
+[submodule "openpi"]
+	path = openpi
+	url = https://github.com/yydderf/openpi.git
+[submodule "cosmos-framework"]
+	path = cosmos-framework
+	url = https://github.com/yydderf/cosmos-framework.git
